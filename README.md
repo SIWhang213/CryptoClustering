@@ -22,7 +22,7 @@
    
 ![image](https://github.com/SIWhang213/CryptoClustering/assets/136553120/e17474d1-4409-4534-aa8b-230ffb7a1977)
 
-3. cluster plot for the original data
+3. cluster plots for the original data
 
 ![image](https://github.com/SIWhang213/CryptoClustering/assets/136553120/8fa9d751-dc2e-4270-acc2-40cfce1f0025)
 ![image](https://github.com/SIWhang213/CryptoClustering/assets/136553120/943b24d2-c1dd-4c16-80c7-fefc872a1e55)
@@ -37,12 +37,13 @@
 
 6. Composite plot to contrast the Elbow curves
    
-![image](https://github.com/SIWhang213/CryptoClustering/assets/136553120/d0301eed-0fd0-4036-bdf9-3f331d569ff7)
+![image](https://github.com/SIWhang213/CryptoClustering/assets/136553120/9e516a6e-ca66-4232-91b2-ba8458dbf222)
 
 
 7. Composite plot to contrast the clusters
 
-![image](https://github.com/SIWhang213/CryptoClustering/assets/136553120/ff157f04-0bb6-4f91-80bd-b92992913136)
+![image](https://github.com/SIWhang213/CryptoClustering/assets/136553120/39ee3991-08c1-445f-a0c0-6137e18055a2)
+
 
 8. 3d plot using three PCAs
 
